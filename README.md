@@ -5,3 +5,4 @@ Training make a NewBranch
 
 Edit Baris Pertama
 
+Edit, Testing git stash
